@@ -1,6 +1,6 @@
 # Qualcomm Adreno (TM) Proprietary Binaries
 
-![Adreno Logo](https://en.wikipedia.org/wiki/Adreno#/media/File:Qualcomm_official_adreno_logo.jpeg)
+![Adreno Logo](https://pcper.com/wp-content/uploads/2025/06/snapdragon-2007.png)
 
 This repository provides information about the Qualcomm Adreno (TM) GPU renderer version: OpenGL ES 3.2, Vulkan 1.3.
 
